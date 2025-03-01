@@ -22,6 +22,10 @@
 
 ## 📖 Syllabus
 
+
+
+[Zip file](https://www.dropbox.com/scl/fi/vbp2dwdeftks85enrbwir/course_ML.zip?rlkey=5aiiizumxl3fp97ahyrfpc5i6&dl=0)
+
 ## 📖 Syllabus Corso Machine Learning Base
 
 👨🏼‍🏫  = lezione frontale
